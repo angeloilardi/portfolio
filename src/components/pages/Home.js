@@ -2,7 +2,7 @@ import React from "react";
 
 function Home(params) {
     return (
-        <div>
+        <div className="container-fluid">
             <img src="" alt=""></img>
             <h1 className="">HEY, I'M ANGELO ILARDI!</h1>
             <h2>A front-end web developer striving to build stunning Web Apps that people love to use.</h2>

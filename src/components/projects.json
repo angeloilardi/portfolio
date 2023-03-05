@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Live me Up!",
+    "description": "Find out where your favourite artista are playing next",
+    "screenshot": "live-me-up.png",
+    "gitHubLink": "https://github.com/helldorado82/live-me-up",
+    "livePageLink": "https://helldorado82.github.io/live-me-up/"
+  },
+  {
+    "id": 2,
+    "name": "Weather Dashboard",
+    "description": "Check the weather anywhere in the world",
+    "screenshot": "weather-dashboard.png",
+    "gitHubLink": "https://github.com/helldorado82/Weather-Dashboard",
+    "livePageLink": "https://helldorado82.github.io/Weather-Dashboard/"
+  },
+  {
+    "id": 3,
+    "name": "Work Day Scheduler",
+    "description": "Plan your day and keep track of all your activities",
+    "screenshot": "daily-planner.png",
+    "gitHubLink": "https://github.com/helldorado82/Daily-Planner-App",
+    "livePageLink": "https://helldorado82.github.io/Daily-Planner-App/"
+  },
+  {
+    "id": 4,
+    "name": "JavaScript Quiz",
+    "description": "Test you JavaScript knowledge in this multiple-choice timed quiz",
+    "screenshot": "js-quiz.png",
+    "gitHubLink": "https://github.com/helldorado82/javascript-quiz",
+    "livePageLink": "https://helldorado82.github.io/javascript-quiz"
+  },
+  {
+    "id": 5,
+    "name": "Password generator",
+    "description": "Need inspiration for a new, secure password? This app can help",
+    "screenshot": "pw-generator.png",
+    "gitHubLink": "https://github.com/helldorado82/password-generator",
+    "livePageLink": "https://helldorado82.github.io/password-generator"
+  },
+  {
+    "id": 6,
+    "name": "Coffee Shop",
+    "description": "Web page for coffee shop",
+    "screenshot":"coffee.png",
+    "gitHubLink": "https://github.com/helldorado82/coffee-shop/",
+    "livePageLink": "https://helldorado82.github.io/coffee-shop/"
+  }
+]

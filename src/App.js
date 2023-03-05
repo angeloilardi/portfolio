@@ -5,6 +5,9 @@ import Home from './components/pages/Home';
 import ProjectsTab from './components/pages/ProjectsTab';
 import Contacts from './components/pages/Contacts';
 import { HashRouter as Router, Route, Routes } from 'react-router-dom';
+
+
+
 function App() {
   return (
     <Router>
