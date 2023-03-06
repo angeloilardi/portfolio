@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Live me Up!",
-    "description": "Find out where your favourite artista are playing next",
+    "description": "Find out where your favourite artists are playing next",
     "screenshot": "live-me-up.png",
     "gitHubLink": "https://github.com/helldorado82/live-me-up",
     "livePageLink": "https://helldorado82.github.io/live-me-up/"

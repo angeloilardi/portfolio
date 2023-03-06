@@ -34,6 +34,7 @@ function Contacts() {
                     <div class="contacts-item m-1"><a href="https://www.linkedin.com/in/angelo-ilardi/" target="_blank" rel="noreferrer"><i class="fa-brands fa-linkedin"></i></a></div>
                     <div class="contacts-item m-1"><a href="mailto:angeloilardi.dev@gmail.com"><i class="fa-regular fa-envelope"></i></a></div>
                 </div>
+                <h4 className="m-3">Click <a href="https://docs.google.com/document/d/1VdoV4UURRwNxyxON46qqpJ-8NZ7PcpCJ/edit?usp=sharing&ouid=106930093054855814883&rtpof=true&sd=true" target="_blank" rel="noreferrer">here</a> to downalod my CV</h4>
             </div>
         </>
     )
