@@ -5,7 +5,7 @@ import projects from "../projects.json";
 function ProjectsTab() {
     return (
 
-        <div className="container-fluid bg">
+        <div className="container-fluid bg h-100">
             <div className="row justify-content-center">
                 {projects.map(p => {
 
