@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.c2cab247.css",
-    "main.js": "/portfolio/static/js/main.c0000a21.js",
+    "main.css": "/portfolio/static/css/main.f93903f7.css",
+    "main.js": "/portfolio/static/js/main.4ed3daf4.js",
+    "static/media/coffee.png": "/portfolio/static/media/coffee.4a03be6246f983beb761.png",
+    "static/media/live-me-up.png": "/portfolio/static/media/live-me-up.1bcd883236c1ecc92c68.png",
+    "static/media/weather-dashboard.png": "/portfolio/static/media/weather-dashboard.5584302c72f2744d4b78.png",
+    "static/media/daily-planner.png": "/portfolio/static/media/daily-planner.80bd1953bede755d44c7.png",
+    "static/media/pw-generator.png": "/portfolio/static/media/pw-generator.70399968a84ff28af513.png",
+    "static/media/js-quiz.png": "/portfolio/static/media/js-quiz.eb01a8bccd33ac47bf96.png",
+    "static/media/2420317.jpeg": "/portfolio/static/media/2420317.6f5b4552b8101445f484.jpeg",
     "index.html": "/portfolio/index.html",
-    "main.c2cab247.css.map": "/portfolio/static/css/main.c2cab247.css.map",
-    "main.c0000a21.js.map": "/portfolio/static/js/main.c0000a21.js.map"
+    "main.f93903f7.css.map": "/portfolio/static/css/main.f93903f7.css.map",
+    "main.4ed3daf4.js.map": "/portfolio/static/js/main.4ed3daf4.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2cab247.css",
-    "static/js/main.c0000a21.js"
+    "static/css/main.f93903f7.css",
+    "static/js/main.4ed3daf4.js"
   ]
 }
