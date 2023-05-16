@@ -17,11 +17,11 @@
   },
   {
     "id": 3,
-    "name": "Work Day Scheduler",
-    "description": "Plan your day and keep track of all your activities",
-    "screenshot": "daily-planner.png",
-    "gitHubLink": "https://github.com/helldorado82/Daily-Planner-App",
-    "livePageLink": "https://helldorado82.github.io/Daily-Planner-App/"
+    "name": "Spexy",
+    "description": "Web page for an imaginary Optical Store",
+    "screenshot": "spexy.png",
+    "gitHubLink": "https://github.com/angeloilardi/spexy",
+    "livePageLink": "https://spexy.vercel.app/"
   },
   {
     "id": 4,
@@ -38,13 +38,5 @@
     "screenshot": "pw-generator.png",
     "gitHubLink": "https://github.com/helldorado82/password-generator",
     "livePageLink": "https://helldorado82.github.io/password-generator"
-  },
-  {
-    "id": 6,
-    "name": "Coffee Shop",
-    "description": "Web page for coffee shop",
-    "screenshot":"coffee.png",
-    "gitHubLink": "https://github.com/helldorado82/coffee-shop/",
-    "livePageLink": "https://helldorado82.github.io/coffee-shop/"
   }
 ]
